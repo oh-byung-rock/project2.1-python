@@ -5,7 +5,7 @@ base_url = "https://apis.openapi.sk.com/puzzle/subway/congestion/stat/car/statio
 headers = {
     "accept": "application/json",
     "Content-Type": "application/json",
-    "appKey": "l7xx031bf4a6cb9a4ad1bd59bf80dc9123c7"
+    "appKey": ""
 }
 
 time_range = "18"
